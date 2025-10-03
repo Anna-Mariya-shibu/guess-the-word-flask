@@ -6,7 +6,8 @@
 
 A fun, pastel-themed Hangman game built with **Flask**, featuring smooth animations, emojis, and playful UI effects.
 
-![screenshot](your-screenshot-url-here.png)
+![screenshot](<img width="813" height="500" alt="image" src="https://github.com/user-attachments/assets/d294e723-69bb-445c-a923-6e599e0662b3" />
+)
 
 ---
 
