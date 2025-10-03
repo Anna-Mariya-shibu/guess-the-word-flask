@@ -6,8 +6,6 @@
 
 A fun, pastel-themed Hangman game built with **Flask**, featuring smooth animations, emojis, and playful UI effects.
 
-![screenshot](https://github.com/Anna-Mariya-shibu/guess-the-word-flask/blob/main/Screenshot%202025-10-03%20140329.png
-)
 
 ---
 
@@ -66,8 +64,8 @@ http://127.0.0.1:5000
 > You can upload it to your repo and reference it like:
 
 ```md
-![Game Screenshot](images/screenshot.png)
-```
+![screenshot](https://github.com/Anna-Mariya-shibu/guess-the-word-flask/blob/main/Screenshot%202025-10-03%20140329.png)
+
 
 ---
 
