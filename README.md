@@ -59,11 +59,6 @@ http://127.0.0.1:5000
 ---
 
 ### ✨ Screenshots
-
-> *(Add your screenshot here)*
-> You can upload it to your repo and reference it like:
-
-```md
 ![screenshot](https://github.com/Anna-Mariya-shibu/guess-the-word-flask/blob/main/Screenshot%202025-10-03%20140329.png)
 
 
