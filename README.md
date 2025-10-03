@@ -6,7 +6,7 @@
 
 A fun, pastel-themed Hangman game built with **Flask**, featuring smooth animations, emojis, and playful UI effects.
 
-![screenshot](<img width="813" height="500" alt="image" src="https://github.com/user-attachments/assets/d294e723-69bb-445c-a923-6e599e0662b3" />
+![screenshot](https://github.com/Anna-Mariya-shibu/guess-the-word-flask/blob/main/Screenshot%202025-10-03%20140329.png
 )
 
 ---
